@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: An Minh Tri DS
+* Student ID: BI12-447 
 * Student Group ID: Not-for-now
